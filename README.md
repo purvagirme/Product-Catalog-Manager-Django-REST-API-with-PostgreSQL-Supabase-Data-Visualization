@@ -1,0 +1,2 @@
+# Product-Catalog-Manager-Django-REST-API-with-PostgreSQL-Supabase-Data-Visualization
+Product Catalog Manager – A Django REST API with CRUD operations, PostgreSQL/Supabase integration, external API import functionality, and a data-visualization dashboard using Chart.js. Built to demonstrate modern backend development practices including RESTful design, clean architecture, and real-time analytics.
